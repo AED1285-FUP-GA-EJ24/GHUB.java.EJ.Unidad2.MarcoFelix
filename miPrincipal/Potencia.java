@@ -1,6 +1,6 @@
 package miPrincipal;
 
-public class Potencias{
+public class Potencia{
     int n,p; //Tienen un tiempo de vida mas grande que las variables locales
     public static void main(String[] ar){
         int  r, e;

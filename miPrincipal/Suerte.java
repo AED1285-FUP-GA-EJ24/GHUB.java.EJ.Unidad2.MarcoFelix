@@ -27,10 +27,12 @@ public class Suerte {
         return f;
     }
 
-    long metodo2 (int n){
+    long metodo2(int n){
         //k = 5 //Fuera del metodo que fue donde cree la variable que se utilizo en el metodo1
         int k; //Se puede utlizar el mismo nombre de variable que utilizamos en el metodo1
         
     }
+ }
 
-}
+        
+    
